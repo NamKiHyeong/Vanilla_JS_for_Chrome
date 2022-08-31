@@ -6,4 +6,4 @@ console.log(player);
 player.name = "nicolas";
 console.log(player);
 player.sexy = "soon";
-
+console.log(player, console);
