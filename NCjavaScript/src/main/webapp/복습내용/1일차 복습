@@ -30,3 +30,5 @@ days.push('생선') // days라는 변수에 '생선'이라는 string 값을 추�
 
 const의 object 값을 변경하는 행위는 const 자체를 변경하는 것이 아니고
  objects값을 변경하는 것이기 때문에 재할당 오류와 관계없다.
+ 
+ 
