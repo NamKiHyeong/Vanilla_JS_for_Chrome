@@ -12,10 +12,13 @@
       
       </script>
       
+      
    </head>
    
    <body>
-      <h1 id="titleH1">실험용 페이지</h1>
+   	<div class="hello">
+      <h1 class="sexy-Font">Welcome! To JavaScript~</h1>
+    </div>  
    </body>
    
    
