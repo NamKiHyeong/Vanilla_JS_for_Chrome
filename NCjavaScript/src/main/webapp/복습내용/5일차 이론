@@ -20,6 +20,7 @@ alert(“copier”);
 window.addEventListener(“resize”, handleWindowResize);
 window.addEventListener(“copy”, handleWindowCopy);
 
+==========================================================================
 
 style에 적합한 도구는 CSS
 animation에 적합한 도구는 JS
