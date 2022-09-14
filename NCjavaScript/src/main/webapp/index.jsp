@@ -14,12 +14,11 @@
       
       
    </head>
-   
    <body>
-   	<div class="hello">
-      <h1 class="sexy-Font">Welcome! To JavaScript~</h1>
-    </div>  
+   	<form id="login-form">
+   		<input type="text" placeholder="이름이 무엇인가요?"/>
+   		<button>로그인</button>
+   	</form>	
    </body>
-   
    
 </html>
